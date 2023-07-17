@@ -6,7 +6,7 @@ Consistió en desarrollar una página web que tiene como finalidad encriptar tex
 
 ## Enlace
 
-Ingresa a la pagina por este link:  [Encriptador](https://luisvazquezcarrillo.github.io/EncriptadorL/).
+Ingresa a la pagina por este link:  [Encriptador](https://luvazang.github.io/Encriptador_AluraLatam/).
 
 ## Requisitos
 
